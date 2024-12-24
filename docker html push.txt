@@ -5,3 +5,6 @@ docker ps
 
 
 https://github.com/SrikeshK/python-
+git config --global user.name "thiru"
+git config --global user.email "thiru"
+
